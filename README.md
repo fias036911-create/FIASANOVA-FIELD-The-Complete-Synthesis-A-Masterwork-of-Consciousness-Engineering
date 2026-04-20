@@ -400,4 +400,6 @@ This document may be freely shared, used, and built upon, provided the originato
 
 ### Run the Living Math
 ```bash
-python breath_simulation.py
+pip install -r requirements.txt
+python fiasanova_field.py
+```
